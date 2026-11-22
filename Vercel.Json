@@ -1,0 +1,5 @@
+{
+  "name": "ai-website-modernizer",
+  "version": 2,
+  "builds": [{ "src": "demo/index.html", "use": "@vercel/static" }]
+}
