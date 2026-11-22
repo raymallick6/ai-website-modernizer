@@ -27,3 +27,19 @@
 
  🤝 Contributing
 We welcome contributions! Read CONTRIBUTING.md
+# 🚀 ai-website-modernizer
+
+> Turn your old, outdated website into a new, modern, professional website using AI.
+
+### 🔴 Live Demo
+Check the `demo/index.html` file - This is our live demo UI.
+
+### ✨ Features
+- Scans old website
+- Rewrites content with AI
+- Modern UI redesign
+- Open Source - Free to use
+
+### 🛠️ How To Run
+```bash
+python agent.py
